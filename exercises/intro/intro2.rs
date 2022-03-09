@@ -4,5 +4,6 @@
 
 
 fn main() {
-    println!("Hello World!");
+    println!("Hello World!  called via Macro");
+    println!("Hello world with  {}" , "Arguments");
 }
