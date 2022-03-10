@@ -6,4 +6,5 @@
 fn main() {
     println!("Hello World!  called via Macro");
     println!("Hello world with  {}" , "Arguments");
+    print!("Mutliple arguments {three} {two} {one}", one="one",two= "two",three= "three");
 }
