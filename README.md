@@ -13,4 +13,10 @@ March 10 2022
 - Intro took 2 tomatoes since I also  read official documentation. Remember ! after a function is a macro call
 - Had fun installing extensions and trying out VIM in VSCode. I want to create a task that would  rustc agaisnt  the  active file 
   then run the executable file
+- More notes per exercise folder
+
+### Completed exercises 
+   - [x] Intro
+
+  
       
