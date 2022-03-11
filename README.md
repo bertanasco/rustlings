@@ -23,7 +23,7 @@ March 11 2022
 
 ### Exercises 
    - [x] Intro - March 10, 2022
-   - [] variables - March 11, 2022
+   - [ ] variables - March 11, 2022
 
 ### Online resources
   - [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)
