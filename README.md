@@ -15,8 +15,17 @@ March 10 2022
   then run the executable file
 - More notes per exercise folder
 
+March 11 2022
+- Variables 1 tomatoe
+- Notable notes LOL. "Variable bindings are immutable by default, but this can be overridden using the mut modifier."  see [docs](https://doc.rust-lang.org/rust-by-example/variable_bindings/mut.html). 
+- Interesting how Rust forces devs to use mut to make a variable mutable
+- Got a bit derailed cause I also read about the guessing game [chapter](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
+
 ### Completed exercises 
-   - [x] Intro
+   - [x] Intro - March 10, 2022
+   - [x] variables - March 11, 2022
+
+
 
   
       
