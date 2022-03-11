@@ -21,10 +21,13 @@ March 11 2022
 - Interesting how Rust forces devs to use mut to make a variable mutable
 - Got a bit derailed cause I also read about the guessing game [chapter](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
 
-### Completed exercises 
+### Exercises 
    - [x] Intro - March 10, 2022
-   - [x] variables - March 11, 2022
+   - [] variables - March 11, 2022
 
+### Online resources
+  - [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)
+  - [The Rust programming language](https://doc.rust-lang.org/book/title-page.html)
 
 
   
