@@ -21,8 +21,12 @@ March 11 2022
 - Interesting how Rust forces devs to use mut to make a variable mutable
 - Got a bit derailed cause I also read about the guessing game [chapter](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
 
+March 14, 2022
+- Did a sidequest about the [guessing game](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
+  Got a glimpse of cargo,loops, conversion, data types and exception handling. cool stuff
+
 ### Exercises 
-   - [x] Intro - March 10, 2022
+   - [x] intro - March 10, 2022
    - [ ] variables - March 11, 2022
 
 ### Online resources
