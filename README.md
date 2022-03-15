@@ -8,7 +8,7 @@ Replacing the default README.md with my notes
 - [x] Install VS Code -  Rust Extension
 - [x] Install VS Code - Vim exention
 
-## TOTAL TOMATOES SPENT SO FAR # 5
+## TOTAL TOMATOES SPENT SO FAR # 6
 ## Notes every day
 March 10 2022 - 2 tomatoes
 - Intro took 2 tomatoes since I also  read official documentation. Remember ! after a function is a macro call
@@ -27,10 +27,14 @@ March 14, 2022 - 2 tomatoes
   Got a glimpse of cargo,loops, conversion, data types and exception handling. cool stuff
 - The variables exercises became easier when I did the side quest. Gonna walk outside a bit and rest. Gonna move to functions tomorrow
 
+March 15,  2022  - 1 tomates
+- funtions - Easy  to  learn. Similar to almost all languages. Haven't read the resouces from the README.md yet
+
+
 ### Exercises 
    - [x] intro - March 10, 2022
    - [x] variables - March 14, 2022
-   - [] functions
+   - [x] functions - March  15, 2022
 
 ### Online resources
   - [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)
